@@ -1,7 +1,7 @@
-# Elria AI
+# Eloria AI
 
-**Elria AI** is an AI-powered story creation chatbot.  
-Users provide a plot idea, short notes, or a few lines of inspiration, and Elria AI transforms them into engaging, fully-developed stories.  
+**Eloria AI** is an AI-powered story creation chatbot.  
+Users provide a plot idea, short notes, or a few lines of inspiration, and Eloria AI transforms them into engaging, fully-developed stories.  
 It allows interactive editing, letting users modify tone, genre, or plot elements mid-story.
 
 ---
