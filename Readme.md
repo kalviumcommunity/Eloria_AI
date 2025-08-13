@@ -6,7 +6,7 @@ It allows interactive editing, letting users modify tone, genre, or plot element
 
 ---
 
-## 🚀 Features
+## 🚀 Features:-
 
 - **Prompt to Story** – Turn any plot or notes into a creative, complete story.
 - **Interactive Editing** – Refine the story with additional instructions.
@@ -17,7 +17,7 @@ y, Sci-Fi, Adventure, Horror, or Comedy.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack:-
 
 - **Frontend:** React  
 - **Backend:** Node.js + Express  
